@@ -71,7 +71,7 @@ input, button {
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	cursor: pointer;
-	transition: 0.4;
+	transition: 0.4s;
 }
 
 #new-task-submit:hover {
